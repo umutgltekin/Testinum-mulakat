@@ -15,3 +15,5 @@ aranına yazılacak roman kelimesi csv uzantılı dosyadan okunması gerekmekted
 - Sepetiniz güncelleniyor yazısının geldiği kontrol edilir.
 - Çarpı butonuna basılır.
 - Sepetin boş olduğu kontrol edilir.
+- 
+[Testinum test case.pdf](https://github.com/gltkn23/Testinum-mulakat/files/9075068/Testinum.test.case.pdf)
